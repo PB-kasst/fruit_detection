@@ -2,7 +2,7 @@
 Banana Detetot - v1 2024-03-13 2:29pm
 ==============================
 
-This dataset was exported via roboflow.com on March 13, 2024 at 1:30 PM GMT
+This dataset was exported via roboflow.com on March 13, 2024 at 1:51 PM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -18,7 +18,7 @@ visit https://github.com/roboflow/notebooks
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
 The dataset includes 291 images.
-Bananas are annotated in YOLOv9 format.
+Bananas are annotated in YOLOv8 format.
 
 The following pre-processing was applied to each image:
 * Auto-orientation of pixel data (with EXIF-orientation stripping)
