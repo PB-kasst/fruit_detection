@@ -3,11 +3,11 @@ val: ../valid/images
 test: ../test/images
 
 nc: 1
-names: ['bananarotation']
+names: ['Banana']
 
 roboflow:
-  workspace: yanawut-wongkajorn
-  project: banana-jov5c
+  workspace: 00mvpbanana
+  project: banana-detetot
   version: 1
   license: CC BY 4.0
-  url: https://universe.roboflow.com/yanawut-wongkajorn/banana-jov5c/dataset/1
+  url: https://universe.roboflow.com/00mvpbanana/banana-detetot/dataset/1

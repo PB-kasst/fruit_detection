@@ -1,5 +1,5 @@
-# Banana > 2022-04-04 11:29pm
-https://universe.roboflow.com/yanawut-wongkajorn/banana-jov5c
+# Banana Detetot > 2024-03-13 2:29pm
+https://universe.roboflow.com/00mvpbanana/banana-detetot
 
 Provided by a Roboflow user
 License: CC BY 4.0
