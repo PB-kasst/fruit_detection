@@ -1,4 +1,4 @@
-# fruit_detection
+# Utilizing Computer Vision to Perform Fruit Detection!
 
 We want to show the PB executive the potential of applying Computer Vision in the manufacturing industry.
 
